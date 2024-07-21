@@ -34,4 +34,4 @@ override.tf.json
 terraform.rc
 .terraform.lock.hcl
 
-02/external/web/node_modules/
+02/external/web/node_modules/*
